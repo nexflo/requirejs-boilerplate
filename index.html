@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <!-- Twitter Bootstrap CSS library -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+
+    <!-- LessCSS stylesheet files -->
+    <link rel="stylesheet/less" type="text/css" href="css/main.less">
+    <script src="scripts/lib/less-1.2.0.min.js" type="text/javascript"></script>
+
+    <!-- RequireJS config for external libs -->
+    <script>
+      require = {
+        paths : {
+          'jquery' : 'lib/jquery-1.7.1.min',
+          'underscore' : 'lib/underscore-min'
+        }
+      }
+    </script>
+
+    <!-- RequireJS referencing scripts/main.js -->
+    <script data-main="scripts/main.js" src="scripts/lib/require.js"></script>
+  </head>
+  <body>
+  </body>
+</html>
