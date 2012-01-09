@@ -1,12 +1,30 @@
 RequireJS Boilerplate web app setup
 ===================================
 
-Includes a very basic setup to start coding quickly in a productive environment.
+A very minimal setup that allows you to get started writing a web application in a very productive environment as quickly
+as possible.
 
-All software copyright their respective owners, all files are untouched and licenses remain.
+This originated as a directory that I would manually copy over for new projects. I hope someone else finds it useful.
 
-Any new files are licensed under the BSD license.
+ * RequireJS : http://requirejs.org/
+ * RequireJS Plugins : cs, text, order, domReady, i18n,
+ * Underscore : http://underscorejs.org/
+ * jQuery : http://jquery.com
+ * LessCSS : http://lesscss.org/
+ * Bootstrap CSS : http://twitter.github.com/bootstrap/
+
+Licenses
+--------
+
+ * jQuery : MIT/GPL
+ * RequireJS and plugins : MIT/new BSD
+ * Underscore : MIT
+ * LessCSS : Apache v2.0
+ * Bootstrap CSS : Apache v2.0
+ * Everything else : Public Domain
+
+More license information can be found as comments in the respective files
 
 --
-Jarrod Overson http://jarrodoverson.com
+Jarrod Overson http://jarrodoverson.com/
 
