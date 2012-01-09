@@ -13,6 +13,9 @@ This originated as a directory that I would manually copy over for new projects.
  * LessCSS : http://lesscss.org/
  * Bootstrap CSS : http://twitter.github.com/bootstrap/
 
+I take no credit for any of these libraries. Nothing substantial in this repository is mine, it's just a compilation
+of great libraries that I use often.
+
 Licenses
 --------
 
