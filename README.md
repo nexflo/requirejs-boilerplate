@@ -16,6 +16,13 @@ This originated as a directory that I would manually copy over for new projects.
 I take no credit for any of these libraries. Nothing substantial in this repository is mine, it's just a compilation
 of great libraries that I use often.
 
+Bugs?
+-----
+
+There may be. Since this started as a very informal boilerplate setup for myself I may have tweaks or fixes made since this version
+that I've forgotten to include, so let me know of any issues and I will get them in here.
+
+
 Licenses
 --------
 
